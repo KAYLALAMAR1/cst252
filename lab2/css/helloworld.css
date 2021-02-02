@@ -1,0 +1,22 @@
+div#content {
+  padding: 60px;
+  margin-left: 70;
+  margin-right: 70;
+  background-color: #E6E6FA;
+  border: dashed 12px #000000;
+  height: 80vh;
+}
+
+h1 {
+  color: blue;
+  font-size: 200%;
+}
+
+h2 {
+  font-family: "Shrikhand", monospace;
+}
+
+p {
+  font-family: "Futura", monospace;
+  text-indent: 20px;
+}
