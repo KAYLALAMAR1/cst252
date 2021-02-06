@@ -1,6 +1,6 @@
 body {
     font-family: Trebuchet, Georgia, Lucida, "san serif";
-    background-color: #FFDAC0;
+    background-color: #BA9FE7;
     margin-left: 70px;
     margin-right: 70px;
     padding: 40px;
@@ -12,12 +12,12 @@ div#content {
     padding: 60px;
     margin-left: 70;
     margin-right: 70;
-    background-color: #FB9EC4;
-    border: solid 12px #FF6FA5;
+    background-image:
+    linear-gradient(#80E2FF, #BDF2FF);
+    border: solid 12px #9E74D0;
     height: 80vh;
     border-radius: 25px;
     transform: scale(0.87, 0.87);
-    height: 80vh;
 }
 
 h1 {
@@ -27,7 +27,7 @@ h1 {
 h1, h2, h3 {
   font-family: "Shrikhand", monospace;
   text-align: center;
-    color: #FF6FA5;
+    color: #005D32;
 }
 
 h2 {
@@ -38,7 +38,7 @@ p {
   font-family: "Futura", monospace;
   font-size: 30px;
   text-align: center;
-	color: #8865FF;
+	color: #9E74D0;
   margin-left: 20px;
   margin-right: 15px;
 }
@@ -49,7 +49,7 @@ img {
     width: 350px;
     margin-left: 100px;
     margin-right: 260px;
-    border: solid 5px #8865FF;
+    border: solid 5px #ffd1dc;
     height: auto;
 }
 
@@ -60,7 +60,7 @@ img:hover {
 
 a {
     text-decoration: none;
-    color: #8865FF;
+    color: #005D32;
     text-align: center;
     display: block;
 }
