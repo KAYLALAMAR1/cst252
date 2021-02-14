@@ -14,6 +14,8 @@ year = 2002;
 // calculate
 age = 2021 - year;
 
+var ownIt = true;
+
 // output
 document.writeln("Make: " + make + "<br>");
 document.writeln("Model: " + model + "<br>");
