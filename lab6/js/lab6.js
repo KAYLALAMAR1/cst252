@@ -14,7 +14,8 @@ myMainRide = {
     year : 2002,
     age : function() {
         return 2021 - this.year;
-
+}
+}
  // output
  document.writeln("Kinds of transportion I use: ", myTransport, "</br>");
  document.writeln("My Main Ride: <pre>",
