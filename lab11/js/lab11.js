@@ -31,4 +31,5 @@ myButton.addEventListener("click", function() {
   // appends a new styled paragraph to #output that says "The Sorting Hat has sorted you into " + house
   newText = "<p>The Sorting Hat has sorted you into " + house + "</p>";
   document.getElementById("output").innerHTML = newText;
+  debugger;
 })

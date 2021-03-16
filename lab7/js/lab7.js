@@ -21,6 +21,8 @@
    return nameSorted;
  }
 
+debugger;
+
  // Output
  document.writeln("Hey there! I fixed your name: ",
 sortUserName(), "</br>");
