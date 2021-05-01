@@ -1,5 +1,5 @@
 /**
- * Author:    Kayla Lamar <klamar@csumb.edu>, Wes Modes <wmodes@csumb.ecu>
+ * Author:    Kayla Lamar <klamar@csumb.edu>, Wes Modes <wmodes@csumb.edu>
  * Created:   19 April
  *
  * License: Public Domain
