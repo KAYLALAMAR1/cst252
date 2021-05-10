@@ -1,0 +1,31 @@
+#draggable {
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin: 10px 10px 10px 0;
+}
+#droppable {
+	width: 150px;
+	height: 150px;
+	float: left;
+	margin: 10px;
+}
+
+#model {
+	width: 300px;
+}
+
+.top {
+	width: 300px;
+}
+
+.row {
+	height: 500px;
+	background-color: pink;
+	margin: 50px;
+	padding-top: 20px;
+}
+
+.col-sm-6 {
+	margin: 100px;
+}
